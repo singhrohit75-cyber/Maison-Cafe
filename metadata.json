@@ -1,0 +1,8 @@
+{
+  "name": "Maison Éclat — Luxury Bakery, Pastry Shop & Cafe",
+  "description": "Maison Éclat is a luxury European-inspired bakery, pastry shop, and cafe in Sector 62, Noida offering handcrafted cakes, pastries, specialty coffee, custom cake studio, online ordering, and Eclair AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
